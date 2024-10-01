@@ -74,7 +74,6 @@ canvas.addEventListener("click", (event) => {
         board[index] = currentPlayer;
         drawMark(index);
 
-        // Almacenar jugada en el set correspondiente
         const moves = currentPlayer === "X" ? playerXMoves : playerOMoves;
         moves.add(index);
 
