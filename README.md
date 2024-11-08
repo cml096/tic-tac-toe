@@ -17,5 +17,6 @@ tic-tac-toe-canvas/
 │
 ├── index.html        # Main structure of the page
 ├── styles.css        # Basic game styles
-└── script.js         # Game logic and canvas manipulation
+└── script.js         # Game logic and canvas manipulation (matrix approach)
+└── set-strategy.js         # Game logic and canvas manipulation (set approach)
 ```
